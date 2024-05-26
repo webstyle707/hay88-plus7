@@ -1,13 +1,3 @@
-// for slide fade
-// document.addEventListener('DOMContentLoaded', function () {
-//   new Splide('#splide1', {
-//     type: 'loop', // slide loop fade
-//     perPage: 1,
-//     autoplay: true,
-//     interval: 2000,
-//   }).mount();
-// });
-
 
 var swiper = new Swiper(".cubeSwiper3", {
   slidesPerView: 1,
